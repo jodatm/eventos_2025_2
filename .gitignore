@@ -1,0 +1,50 @@
+# Compilados de Java
+*.class
+*.jar
+*.war
+*.ear
+*.json
+
+# Archivos de log
+*.log
+
+# Archivos generados por el sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos temporales
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Configuración de IDEs
+## IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# Gradle
+.gradle/
+build/
+
+# Maven
+target/
+
+# Otros entornos
+.vscode/
