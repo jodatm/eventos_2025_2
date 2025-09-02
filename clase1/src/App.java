@@ -10,6 +10,7 @@ public class App {
             {4,5,6},
             {7,8,9}
         };
+        System.out.println("--- Matriz ---");
         for(int i = 0; i < matriz.length ; i++){
             for(int j = 0; j < matriz[i].length ; j++){
                 System.out.println(matriz[i][j]);
